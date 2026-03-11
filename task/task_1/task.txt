@@ -1,0 +1,29 @@
+=========================================
+HCP INTERACTION CRM & QMS PROJECT STATUS
+=========================================
+Candidate: Aman Kumar
+Date: March 11, 2026
+Role: Full Stack AI Developer (Internship Challenge)
+
+--- TASK 1: TECHNICAL IMPLEMENTATION (COMPLETED) ---
+[✓] BACKEND: FastAPI Server setup on port 8000.
+[✓] AI AGENT: LangGraph orchestration using Llama-3.1-8b-instant.
+[✓] TOOLS: Integrated 5 specialized tools for HCP data management.
+[✓] FRONTEND: React.js application with a clean Chat UI.
+[✓] STATE MANAGEMENT: Redux Toolkit implemented (chatSlice & store).
+[✓] CONNECTIVITY: CORS enabled; Frontend-Backend communication verified.
+
+--- TASK 2: QMS RESEARCH (PREPARED) ---
+[✓] CONCEPT: Deviation Management (Case: Purity failure).
+[✓] CONCEPT: CAPA (Corrective and Preventive Action) flow.
+[✓] CONCEPT: Change Control & Recalls.
+[✓] VISUALS: Whiteboard flowchart prepared for video presentation.
+
+--- VIDEO PRODUCTION CHECKLIST ---
+[ ] Demonstration of LangGraph tool calling.
+[ ] Explanation of Redux data flow.
+[ ] QMS presentation with face visible (10-25 mins).
+[ ] Visual aids (Hand-drawn or Digital Whiteboard).
+=========================================
+this was my project for the task 1
+thank you very much
